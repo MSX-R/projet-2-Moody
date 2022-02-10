@@ -9,7 +9,7 @@ Les informations des films/séries sont récupérés via l'API [TMDB](https://ww
 
 Un catalogue est constitué une fois l'humeur choisie regroupant l'intégralité des films/séries et une sections FILM permet de filtrer uniquement les Films et de même pour les séries.
 
-L'huemeur peut-être changer à tout moment grâce au selctionneur en haut à droite de l'écran afin d'avoir un nouveau catalogue.
+L'humeur peut-être changer à tout moment grâce au sélectionneur en haut à droite de l'écran afin d'avoir un nouveau catalogue.
 
 Si l'utilisateur souhaite se divertir durant une petite entracte une section MINI JEUX est mise à disposition avec un Quizz de 10 questions selon l'humeur choisit qui se basera également sur le genre de films/séries.
 
