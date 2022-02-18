@@ -39,7 +39,7 @@ const Catalogue = ({
       setIsLoading(true)
       axios
         .get(
-          `https://api.themoviedb.org/3/discover/movie?api_key=${process.env.REACT_APP_API_KEY}&with_genres=${props.emojiSelected.correspondance}&language=fr-FR&page=${numPage}`
+          `https://api.themoviedb.org/3/discover/movie?api_key=430fd4a9e11f41d3009ea74bba3edc1a&with_genres=${props.emojiSelected.correspondance}&language=fr-FR&page=${numPage}`
         )
         .then(response => response.data)
         .then(data => {
@@ -55,7 +55,7 @@ const Catalogue = ({
       setIsLoading(true)
       axios
         .get(
-          `https://api.themoviedb.org/3/discover/tv?api_key=${process.env.REACT_APP_API_KEY}&with_genres=${props.emojiSelected.correspondanceSerie}&language=fr-FR&page=${numPage}`
+          `https://api.themoviedb.org/3/discover/tv?api_key=430fd4a9e11f41d3009ea74bba3edc1a&with_genres=${props.emojiSelected.correspondanceSerie}&language=fr-FR&page=${numPage}`
         )
         .then(response => response.data)
         .then(data => {

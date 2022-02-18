@@ -18,7 +18,7 @@ const CardFilm = ({ getProps, retourFunc, getDetails }) => {
     const appelAPIFilm = () => {
       axios
         .get(
-          `https://api.themoviedb.org/3/movie/${id}?api_key=${process.env.REACT_APP_API_KEY}&append_to_response=videos,images,credits,release_dates&language=fr-FR`
+          `https://api.themoviedb.org/3/movie/${id}?api_key=430fd4a9e11f41d3009ea74bba3edc1a&append_to_response=videos,images,credits,release_dates&language=fr-FR`
         )
         .then(res => res.data)
         .then(res => {
