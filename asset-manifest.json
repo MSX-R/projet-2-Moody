@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/projet-2-Moody/static/css/main.073c9b0a.css",
-    "main.js": "/projet-2-Moody/static/js/main.bb17438b.js",
+    "main.css": "/projet-2-Moody/static/css/main.5385a161.css",
+    "main.js": "/projet-2-Moody/static/js/main.3b1d6ad2.js",
     "static/js/787.fd3d59a4.chunk.js": "/projet-2-Moody/static/js/787.fd3d59a4.chunk.js",
-    "static/media/logo.svg": "/projet-2-Moody/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logoprot5.png": "/projet-2-Moody/static/media/logoprot5.dd94ee12c409d5944608.png",
+    "static/media/colere.png": "/projet-2-Moody/static/media/colere.5e70b8218e4755d9f038.png",
+    "static/media/peur.png": "/projet-2-Moody/static/media/peur.2e58427e2e8d58e155b8.png",
+    "static/media/pleure.png": "/projet-2-Moody/static/media/pleure.747c01a2753da53d255b.png",
+    "static/media/aubergine.png": "/projet-2-Moody/static/media/aubergine.a2d4368047db1156140b.png",
+    "static/media/joyeux.png": "/projet-2-Moody/static/media/joyeux.dd8222a5f9d6af32c791.png",
+    "static/media/logoMobile.png": "/projet-2-Moody/static/media/logoMobile.7e183cb5df310e657f48.png",
+    "static/media/amour.png": "/projet-2-Moody/static/media/amour.bcb6566816664dee03c0.png",
+    "static/media/surprise.png": "/projet-2-Moody/static/media/surprise.5a5858e3824b92fa3893.png",
+    "static/media/chevroninactif.png": "/projet-2-Moody/static/media/chevroninactif.767d5bec141ae0b6a688.png",
+    "static/media/chevrongauche.png": "/projet-2-Moody/static/media/chevrongauche.62d2e326ce719c374d9f.png",
+    "static/media/chevrondroit.png": "/projet-2-Moody/static/media/chevrondroit.16ac2b243a8bb1793d34.png",
+    "static/media/popcorn.png": "/projet-2-Moody/static/media/popcorn.b96d3fcef4f93504393f.png",
     "index.html": "/projet-2-Moody/index.html",
-    "main.073c9b0a.css.map": "/projet-2-Moody/static/css/main.073c9b0a.css.map",
-    "main.bb17438b.js.map": "/projet-2-Moody/static/js/main.bb17438b.js.map",
+    "static/media/No_image_available.svg": "/projet-2-Moody/static/media/No_image_available.8b630b99873913bf8eb1c692251edd64.svg",
+    "main.5385a161.css.map": "/projet-2-Moody/static/css/main.5385a161.css.map",
+    "main.3b1d6ad2.js.map": "/projet-2-Moody/static/js/main.3b1d6ad2.js.map",
     "787.fd3d59a4.chunk.js.map": "/projet-2-Moody/static/js/787.fd3d59a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bb17438b.js"
+    "static/css/main.5385a161.css",
+    "static/js/main.3b1d6ad2.js"
   ]
 }
