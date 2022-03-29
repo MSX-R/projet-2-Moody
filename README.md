@@ -24,3 +24,12 @@ Si l'utilisateur souhaite se divertir durant une petite entracte une section MIN
 ![c7901d4f7158078a19093b7aa6867f62](https://user-images.githubusercontent.com/89353029/153375424-63225c11-04bd-4e34-a0c7-247bfbb4bcbc.jpg)
 
 ![7abac8c7396af7a8e03407efa3fe1aff](https://user-images.githubusercontent.com/89353029/153375439-80fb4c03-7999-4f76-9c94-8e007955f091.png)
+
+## 👨‍👨‍👦‍👦 Equipe : 
+
+[Romain](https://github.com/Msx-r)
+[Thomas](https://github.com/MunschThomas)
+[Bénédict](https://github.com/Benedct-Laurain)
+[Julien](https://github.com/jartacho)
+[Mika](https://github.com/Mickaseg)
+[JF](https://github.com/GratadeJF)
