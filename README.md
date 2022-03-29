@@ -27,9 +27,9 @@ Si l'utilisateur souhaite se divertir durant une petite entracte une section MIN
 
 ## 👨‍👨‍👦‍👦 Equipe : 
 
-[Romain](https://github.com/Msx-r)
-[Thomas](https://github.com/MunschThomas)
-[Bénédict](https://github.com/Benedct-Laurain)
-[Julien](https://github.com/jartacho)
-[Mika](https://github.com/Mickaseg)
-[JF](https://github.com/GratadeJF)
+[Romain](https://github.com/Msx-r) <br>
+[Thomas](https://github.com/MunschThomas) <br>
+[Bénédict](https://github.com/Benedct-Laurain) <br>
+[Julien](https://github.com/jartacho) <br>
+[Mika](https://github.com/Mickaseg) <br>
+[JF](https://github.com/GratadeJF) <br>
